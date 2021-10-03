@@ -14,7 +14,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="/img/logo.png" alt="Screenshot" style="border-radius: 9999px;">
+    <img src="/img/cheese-logo.jpg" alt="Screenshot" style="border-radius: 9999px;">
   </a>
 
   <h3 align="center">Studio Cheese | WordPress Website</h3>
@@ -117,4 +117,4 @@ start2impact personal page: https://talent.start2impact.it/profile/davide-lombar
 [issues-url]: https://github.com/davide-lombardo/studio-cheese-theme/issues
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/davide-lombardo-profile/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/logo.png
