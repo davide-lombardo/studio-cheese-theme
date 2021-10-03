@@ -16,13 +16,13 @@
   </section>
 
   <section>
-        <div class="col-md-3 col-lg-12 my-4">
+        <div class="col-lg-12 my-4">
           <h6 class="text-uppercase fw-bold mb-4">Orari</h6>
 		      <p><i class="fas fa-calendar-alt me-3"></i> Dal Martedi al Sabato</p>
           <p><i class="fas fa-clock me-3"></i> Dalle 09:00 all 12:30</p>
         </div>
        
-        <div class="col-md-3 col-lg-12 my-4">
+        <div class="col-lg-12 my-4">
           <h6 class="text-uppercase fw-bold mb-4">Contatti</h6>
           <p><i class="fas fa-home me-3"></i> Siderno (RC), Via Caldara 25</p>
           <p><i class="fas fa-phone me-3"></i> +39 327 946 6434</p>

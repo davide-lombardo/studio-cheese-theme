@@ -24,7 +24,7 @@
 		</div>
 	</div>
 	
-	<div class="col-xs-12 col-sm-4">
+	<div class="col-xs-12 col-sm-4 blog-sidebar">
 		<?php get_sidebar(); ?>
 	</div>
 

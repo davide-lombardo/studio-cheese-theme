@@ -11,7 +11,7 @@
 			</section>
 		</main>			
 	</div>
-
+	
 	<div class="accordion mx-5" id="accordionExample">
 
 		<div class="accordion-item">
