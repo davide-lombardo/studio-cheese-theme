@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body { margin-top: 50px; }
+
+/* NAVBAR */
+
+nav.pagination {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax( 20px, 0.3fr ));
+  text-align: center;
+}
+
+nav.pagination.a {
+  padding: 15px 0;
+}
+
+nav.pagination.span {
+  padding: 15px 0;
+}
+
+/* CAROUSEL */
+
+.carousel { background: #000; background-size: cover;  }
+.carousel .item { height: 350px; overflow: hidden; }
+.carousel .item img { width: auto; }
+.carousel-caption a { color: #fff; }
+
+/* BLOG */
+
+.blog-element { 
+  height: 200px; 
+  overflow: hidden; 
+  background-position: center center; 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  margin-left: 20px;
+}
+.blog-element a { 
+  color: #fff; 
+  text-decoration: none;
+  text-shadow: 0 1px 3px rgba(0,0,0,.5); }
+
+.blog-element a:hover { 
+  color: #d9d9d9; 
+  text-decoration: underline;
+}
+
+.entr
+.no-margin { margin: 0; }
+.blog-item { padding: 0; } 
+
+/* CONTACT FORM */
+
+.form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid #777777;
+}
+form .form-group input, input:focus{
+ box-shadow: none;
+}
+
+form .form-group textarea, textarea:focus{
+ box-shadow: none;
+}
+
+.btn{
+  font: normal 500 16px/25px var(--roboto);
+  color: var(--text-color);
+}
+
+.btn:focus {
+  box-shadow: none;
+}
+
+/* MAP */
+#mapid { 
+  height: 450px; 
+}
+
+/* ICONS */
+
+.fab:hover {
+  color: rgb(224, 224, 10);
+  transition: ease-in-out 0.2s;
+}
+
+/* ASIDE */
+
+.wp-block-search__inside-wrapper {
+  margin-right: 20px;
+}
+
+
+
+
+
+
+  
+
+
