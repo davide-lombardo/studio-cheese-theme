@@ -1,9 +1,9 @@
 <?php get_header(); ?>
 
 <?php 
-        /*
-            Template name: Contact page 
-        */
+    /*
+        Template name: Contact page 
+    */
 ?>
 
   <div class="row text-muted mt-5">
@@ -30,17 +30,18 @@
           </a>
       </div>
     </section>
+    </div>    
+  </div>
+
+  <div class="row my-5 mx-5 bg-white p-5">
+    <div class="col-12">
+      <div class="row">
+        <div class="col-12">
+          <?php echo do_shortcode('[wpforms id="197"]');?>
+        </div>
+      </div>
     </div>
-
-    
   </div>
-
-<div class="row">
-  <div class="col-12">
-    <?php require("form-contatti.php"); ?><!-- form.php file -->
-  </div>
-</div>
-
 
 
 <script>
@@ -61,4 +62,3 @@
 
 </script>
 
-<!-- Contatti -->

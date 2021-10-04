@@ -1,5 +1,11 @@
 <?php get_header(); ?>
 
+<?php 
+	/*
+		Template name: FAQ page 
+	*/
+?>
+
 	<div id='primary' class='container my-5'>
 		<main id='main' class='site-main' role='main'>
 			<section class=''>
@@ -128,4 +134,3 @@
 
 <?php get_footer(); ?>
 
-<!-- FAQ -->

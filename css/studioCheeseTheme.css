@@ -24,10 +24,10 @@ nav.pagination.span {
 
 /* CAROUSEL */
 
-.carousel { background: #000; background-size: cover;  }
-.carousel .item { height: 350px; overflow: hidden; }
-.carousel .item img { width: auto; }
-.carousel-caption a { color: #fff; }
+/* .carousel { background: #000; background-size: cover;  }
+.carousel-item { height: 350px; overflow: hidden; max-width: 765px; }
+.entry-title { text-decoration: none ;}
+.carousel-caption a { color: #fff; } */
 
 /* BLOG */
 
@@ -95,8 +95,6 @@ form .form-group textarea, textarea:focus{
 .wp-block-search__inside-wrapper {
   margin-right: 20px;
 }
-
-
     
 /* COMMENTS */
 
