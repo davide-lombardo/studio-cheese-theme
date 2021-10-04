@@ -77,25 +77,19 @@ For the rest, you can choose any type of store or service. Let your creative str
    ```sh
    git clone 
    ```
-3. Move `20210430_canostra_98a511042d5a5e862419_20210430151246_archive` and `installer.php` to Wordpress main directory.
-4. Install [Duplicator](https://it.wordpress.org/plugins/duplicator/) plugin and go to
+3. Move `localhost-progetti-tutorial_wordpress-20211004-141927-5ynfs9.wpress` and installer.php to Wordpress main directory.
+4. Install [ All in one WP ](https://it.wordpress.org/plugins/all-in-one-wp-migration/) plugin and go to
    ```
    yourwebsiteURL.domain/installer.php
    ```
 5. Follow the setup wizard.
 
-Note: more info on the [developers website](https://snapcreek.com/duplicator/docs/quick-start/?utm_source=duplicator_free&utm_medium=wordpress_plugin&utm_content=package_built_install_help&utm_campaign=duplicator_free#quick-040-q)
 
 <!-- Usage -->
 
 ## Usage
 
-In order to use it, you must login as:
 
-```text
-username: admin
-password: K@g2DSupYfv#1^i*mTgSUyIR
-```
 
 <!-- CONTACT -->
 
