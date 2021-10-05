@@ -5,7 +5,7 @@
 			<div id="newtheme-carousel" class="carousel slide mt-5" data-bs-ride="carousel">
 			<!-- Wrapper for slides -->
 			<div class="carousel-inner" role="listbox">
-			  
+				
 			<?php 
 
 				$args_cat = array(
@@ -30,7 +30,7 @@
 					while( $lastBlog->have_posts() ): $lastBlog->the_post(); ?>
 						
 						<div class="carousel-item <?php if($count == 0): echo 'active'; endif; ?>" data-bs-interval="5000">
-							<?php the_post_thumbnail( 'full', array( 'class' => 'rounded mx-auto img-fluid d-block w-100' ) ); ?>
+							<?php the_post_thumbnail( 'full', array( 'class' => 'd-block w-100 img-fluid' ) ); ?>
 							<div class="carousel-caption">
 								<?php the_title( sprintf('<h1 class="entry-title"><a href="%s">', esc_url( get_permalink() ) ),'</a></h1>' ); ?>
 

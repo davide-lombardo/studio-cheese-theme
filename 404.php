@@ -1,7 +1,7 @@
 <?php get_header(); ?>
 
     <div id='primary' class='container bg-white'>
-        <main id='main' class='site-main' role='main'>
+        <main id='main' class='site-main mt-5 p-3' role='main'>
 
             <section class='error-404 not-found'>
 
