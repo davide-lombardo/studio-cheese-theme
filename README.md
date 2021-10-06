@@ -77,10 +77,10 @@ For the rest, you can choose any type of store or service. Let your creative str
    ```sh
    git clone 
    ```
-3. Move `localhost-progetti-tutorial_wordpress-20211004-141927-5ynfs9.wpress` and installer.php to Wordpress main directory.
-4. Install [ All in one WP ](https://it.wordpress.org/plugins/all-in-one-wp-migration/) plugin and go to
+3. 
+4. Install [ All in one WP ](https://it.wordpress.org/plugins/all-in-one-wp-migration/) 
    ```
-   yourwebsiteURL.domain/installer.php
+   
    ```
 5. Follow the setup wizard.
 
@@ -89,7 +89,12 @@ For the rest, you can choose any type of store or service. Let your creative str
 
 ## Usage
 
+In order to use it, you must login as:
 
+```text
+username: wplombardo
+password: 4@JulwnGeB)XK8wK5V6R%$IY
+```
 
 <!-- CONTACT -->
 
