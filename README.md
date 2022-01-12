@@ -54,14 +54,12 @@
 
 For this project, you have to imagine that you are in charge of the digitalization process of a classic offline business (artisans, clothing stores, bars, etc.).
 
-Your task is to create the website of the business, putting all your imagination and helping it to enter the digital world thanks to your skills.
-
-The compulsory requests that we make are three:
+The requests are three:
 - There must be a contact form on the site.
 - There must be an integrated map to allow customers to immediately see where the business is located.
-- You must create a custom theme from scratch (otherwise it's too easy to use those already available!).
+- You must create a custom theme from scratch.
 
-For the rest, you can choose any type of store or service. Let your creative streak run wild!
+You can choose any type of store or service. 
 
 ### Built With
 
